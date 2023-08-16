@@ -22,7 +22,6 @@ public class NativeUtils {
         Log.e("TAG", "JNICallJava---> " + msg);
     }
 
-
     public native void JNICallJavaSumBack();
 
 
